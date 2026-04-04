@@ -1,4 +1,4 @@
-# Mini Projeto SQL - Análise de Vendas
+# Projeto SQL - Análise de Vendas
 
 ## Objetivo
 Praticar consultas SQL com um conjunto de dados de vendas e produtos.
